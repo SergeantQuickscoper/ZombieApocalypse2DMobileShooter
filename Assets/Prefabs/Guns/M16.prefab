@@ -128,4 +128,4 @@ MonoBehaviour:
   RotationOffset: 0
   firePoint: {fileID: 7866191397798621343}
   bullet: {fileID: 2050861694332825132, guid: d44dec0b42160224b8dd8eb9f05e9e07, type: 3}
-  fireRate: 50
+  fireRate: 10
