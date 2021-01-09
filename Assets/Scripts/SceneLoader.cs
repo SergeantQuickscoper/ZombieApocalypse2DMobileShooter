@@ -13,7 +13,7 @@ public class SceneLoader : MonoBehaviour
         {
             if(Input.GetKeyDown(KeyCode.E))
             {
-                SceneManager.LoadScene(RequiredScene.ToString());
+                SceneManager.LoadScene(RequiredScene);
             }
         }
     }
